@@ -1,5 +1,4 @@
 DOMAIN,stream.ntrrr.top
-DOMAIN,temby.285286.xyz
 DOMAIN,emby.bangumi.ca
 DOMAIN,789.123456.al
 DOMAIN,embyplus.org
@@ -19,10 +18,10 @@ DOMAIN,cf.xmsl.org
 DOMAIN,cc.coemn.com
 DOMAIN-KEYWORD,carryz
 DOMAIN,ushd.xmsl.org
-DOMAIN,embymv.tk
+DOMAIN,embymv.link
 DOMAIN-SUFFIX,emby.wtf
 DOMAIN,film.ohhhh.org
-IP-CIDR,193.123.232.141/30
+IP-CIDR,108.181.0.21/32
 DOMAIN,cf.gtlx.org
 DOMAIN,cf2.jmsuper.com
 DOMAIN,nanflix.net

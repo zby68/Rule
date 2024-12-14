@@ -16,7 +16,7 @@ DOMAIN-SUFFIX,emby.wtf
 DOMAIN-KEYWORD,023168
 IP-CIDR,108.181.0.21/32
 DOMAIN,cf.gtlx.org
-DOMAIN,cf2.jmsuper.com
+DOMAIN-KEYWORD,jmsuper
 DOMAIN,nanflix.net
 DOMAIN-KEYWORD,odysseyplus
 DOMAIN-KEYWORD,hka-emby

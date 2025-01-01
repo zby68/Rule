@@ -17,7 +17,7 @@ DOMAIN-KEYWORD,023168
 IP-CIDR,108.181.0.21/32
 DOMAIN,cf.gtlx.org
 DOMAIN-KEYWORD,jmsuper
-DOMAIN,nanflix.net
+DOMAIN-SUFFIX,nanflix.net
 DOMAIN-KEYWORD,odysseyplus
 DOMAIN-KEYWORD,hka-emby
 DOMAIN,clip.makima.online
